@@ -18,7 +18,7 @@ market research.
 
 - `collect_reddit.py`: authenticated collector using PRAW
 - `test_reddit.py`: minimal authentication/listing test
-- `.env.example`: required environment variables
+- `requirements.txt`: list of all the external libraries, packages, and specific versions needed
 
 ## API usage
 
